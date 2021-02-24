@@ -1,4 +1,4 @@
-#!bin/bash -x
+#!/bin/bash -x
 
-echo "Hello git"
-echo "hello world"
+echo "Hello Git"
+echo "How are you"
